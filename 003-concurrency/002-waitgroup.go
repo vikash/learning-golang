@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/zopnow/learning-golang/003-concurrency/functions"
+	"github.com/vikash/learning-golang/003-concurrency/functions"
 	"sync"
 )
 

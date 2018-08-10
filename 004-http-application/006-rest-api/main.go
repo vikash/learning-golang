@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/zopnow/learning-golang/004-http-application/006-rest-api/blog"
+	"github.com/vikash/learning-golang/004-http-application/006-rest-api/blog"
 	"github.com/zopnow/z"
 	"os"
 )

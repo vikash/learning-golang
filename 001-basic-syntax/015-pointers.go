@@ -12,7 +12,7 @@ func main() {
 	// Function can take pointer as parameter or can return a pointer
 	x := 10
 	doubleIt(&x)
-	fmt.Println(x)
+	fmt.Println(x)  // NOTE:Go does not support pointer arithmetic like C
 
 }
 

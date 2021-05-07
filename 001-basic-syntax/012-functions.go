@@ -13,7 +13,7 @@ func sub(a int, b int) (r int) {
 	return
 }
 
-// Function with multiple return values
+// Function with multiple return values // you can return different types as well like int,string
 func squares(a int, b int) (int, int) {
 	return a * a, b * b
 }

@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// functions can be used as a value, just like any other type. They can be used as an argument to function or as a return value
 func main() {
 	sqFunc := func(a int) int {
 		return a * a
